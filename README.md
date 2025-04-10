@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
 
 Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja por cursos, podcast e até mesmos eventos.
@@ -31,6 +31,7 @@ Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja p
 <h1>📊 Estatísticas</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000)](https://github.com/vctramon/github-readme-stats)
 
 ###
 
