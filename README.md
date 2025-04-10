@@ -8,8 +8,10 @@ Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja p
 
 ---
 
-### 🤖 Linguagens em Desenvolvimento
-
+<div aling="center">
+    
+### 🤖 Linguagens em Desenvolvimento 
+    
 <img 
     align="left" 
     alt="HTML"
@@ -58,6 +60,7 @@ Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+</div>
 
 <br/>
 <br/>
@@ -65,7 +68,16 @@ Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja p
 ----
 
 ### 📊 Estatísticas
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000)
-    
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
