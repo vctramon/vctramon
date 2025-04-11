@@ -2,10 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
+###
 
 <p align="center">Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja por cursos, podcast e até mesmos eventos.</p>
 
 ###
+
 <h1 align="center"> Tecnologias em Desenvolvimento </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -27,6 +29,7 @@
 </div>
 
 ###
+
 <h1 align="center">📊 Estatísticas</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)
@@ -44,8 +47,6 @@
 
 ###
 
-###
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
@@ -54,4 +55,13 @@
 
 ###
 
+<h1 align="center">📱Contatos</h1>
 
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/victor-ramon-vr"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+</div>
+
+###
