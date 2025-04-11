@@ -34,6 +34,12 @@
 
 ###
 
+<img align="center" height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
+###
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
