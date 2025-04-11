@@ -35,15 +35,19 @@
 
 <h1 align="center">📊 Estatísticas</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)](https://github.com/vctramon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&width="200")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)](https://github.com/vctramon/github-readme-stats&align="right"&width="200")
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+<div align="center">
+<img  height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
-<img width="250" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+<img  height="150" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+</div>
 
+
+###
 
 ###
 
@@ -54,7 +58,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
 </picture>
-
+---
 <br></br>
 
 ###
