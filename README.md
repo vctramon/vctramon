@@ -40,25 +40,30 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="left" height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
-<img width="200" align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFoeGxvNGdnNGRya3o4MGl3dHk5aHJobDIwMWY0OWxnam1mZGRmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdLD2vN09ZavdqU/giphy.gif"  />
+<img width="250" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
 
-<img width="200" align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUyZjltdGk0dGhsbTJqeGYwbTZtcGZyZ3Z3eWM3OXNseXNkM241aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/133l9lMseIxhfy/giphy.gif"  />
-
-<img width="200" align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"  />
 
 ###
-</br>
+
+<br></br>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
 </picture>
 
+<br></br>
+
 ###
 
 <h1 align="center">📱Contatos</h1>
+
+###
+
+<br></br>
 
 ###
 
