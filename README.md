@@ -9,6 +9,9 @@
 ###
 
 <h1 align="center"> Tecnologias em Desenvolvimento </h1>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="30" />
@@ -46,7 +49,7 @@
 <img width="200" align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"  />
 
 ###
-
+</br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
@@ -60,8 +63,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/victor-ramon-vr"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/victor-ramon-vr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
 </div>
 
 ###
