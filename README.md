@@ -7,6 +7,7 @@
 <p align="center">Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja por cursos, podcast e até mesmos eventos.</p>
 
 ###
+<br></br>
 
 <h1 align="center"> Tecnologias em Desenvolvimento </h1>
 
@@ -33,6 +34,8 @@
 
 ###
 
+<br></br>
+
 <h1 align="center">📊 Estatísticas</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&width="200")
@@ -41,24 +44,21 @@
 ###
 
 <div align="center">
+  
 <img  height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47ecsp2nwka55gaajfw72y1u7r3wptl85wi1bv015x&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
-<img  height="150" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+<img  height="150" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
 </div>
 
 
 ###
 
 ###
-
-<br></br>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
 </picture>
----
 <br></br>
 
 ###
