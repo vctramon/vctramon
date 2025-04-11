@@ -5,6 +5,7 @@
 
 <p align="center">Atualmente estou estuando no PROA e estou sempre a procura de evolução, seja por cursos, podcast e até mesmos eventos.</p>
 
+###
 <h1 align="center"> Tecnologias em Desenvolvimento </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
