@@ -42,20 +42,23 @@
 
 <h1 align="center">📊 Estatísticas</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&width="200")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)](https://github.com/vctramon/github-readme-stats&align="right"&width="200")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&card_width="150"&card_height="150")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)](https://github.com/vctramon/github-readme-stats&align="right"&card_width="150"&card_height="150")
 
-###
+<br></br>
 
-<div align="center">  
+<div align="left">  
   <img  height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>                    
 </div>
+
+<br></br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph.svg">
 </picture>
+
 <br></br>
 
 <h1 align="center">📱Contatos</h1>
