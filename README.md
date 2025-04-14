@@ -1,4 +1,4 @@
-
+1
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="right">  
-<img height="150" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+<img height="150" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
 </div>
 
 ###
