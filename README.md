@@ -42,10 +42,11 @@
 
 <h1 align="center">📊 Estatísticas</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&card_width="150"&card_height="150")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&align="left"&width="200"&align="left")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=donut&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000)](https://github.com/vctramon/github-readme-stats&align="right"&width="200"&align="right")
 
 
-<br></br>
 
 <div align="left">  
   <img  height="150" src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>                    
