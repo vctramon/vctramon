@@ -50,13 +50,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=compact&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="Top Languages">
 </div>
 
+<div align="left">
+  <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="150" width="220" alt="Programming GIF">
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg" width="100%" alt="Contribution Graph">
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="150" width="220" alt="Programming GIF">
-</div>
 
 <h2 align="center">📱 Contatos</h2>
 
