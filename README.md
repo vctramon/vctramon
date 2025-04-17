@@ -13,7 +13,7 @@
 <br>
 
 <!-- Technologies Section -->
-<h2 align="center">🚀 Tecnologias em Desenvolvimento</h2>
+<h1 align="center">🚀 Tecnologias em Desenvolvimento</h1>
 
 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwYWZwbTVyeG90bXRlbDRyajNmZ3kxcnM3MHQzN3AyNXVnMTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif" height="150" width="250" align="right" alt="Coding GIF">
@@ -42,7 +42,7 @@
 <br>
 
 <!-- Stats Section -->
-<h2 align="center">📊 Estatísticas</h2>
+<h1 align="center">📊 Estatísticas</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="GitHub Stats">
@@ -59,7 +59,7 @@
 </div>
 
 
-<h2 align="center">📱 Contatos</h2>
+<h1 align="center">📱 Contatos</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-ramon-vr/" target="_blank">
