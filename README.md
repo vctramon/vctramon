@@ -1,11 +1,9 @@
 <!-- Header Section -->
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!" alt="Typing animation">
-</h1>
 
-<!-- Introduction Section -->
-<div align="center">
-  
+
+<h1>Sobre mim</h1>
+<div align="left">  
   <p>Atualmente estou estudando no PROA e estou sempre à procura de evolução, seja por cursos, podcasts e até mesmos eventos.</p>
 </div>
 
