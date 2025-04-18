@@ -51,7 +51,7 @@
 </div>
 
 <div align="left">
-  <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="150" width="220" alt="Programming GIF">
+  <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="150" width="180" alt="Programming GIF">
 </div>
 
 <div align="center">
