@@ -5,7 +5,7 @@
 <h1>Sobre mim</h1>
 <div align="left">  
   <p>Opa, tudo bem ?
-    Prazer eu sou o Ramon, sou estudante de Big Data para Negócios, em formação para atuar como Cientista de Dados. Tenho perfil curioso, gosto de explorar novas tecnologias, testar hipóteses e transformar dados em insights que apoiem decisões estratégicas. Estou sempre experimentando ferramentas, linguagens e abordagens diferentes para aprender na prática e evoluir continuamente..</p>
+    Prazer eu sou o Ramon, estou cursando Big Data para Negócios, em formação para atuar como Cientista de Dados. Tenho perfil curioso, gosto de explorar novas tecnologias, testar hipóteses e transformar dados em insights que apoiem decisões estratégicas. Estou sempre experimentando ferramentas, linguagens e abordagens diferentes para aprender na prática e evoluir continuamente..</p>
 </div>
 
 <br>
