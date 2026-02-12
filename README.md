@@ -44,10 +44,11 @@
 <h1 align="center">📊 Estatísticas</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctramon&layout=compact&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vctramon&layout=compact&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="Top Languages" width="48%" />
 </div>
+
 
 <div align="left">
   <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="100" width="150" alt="Programming GIF">
