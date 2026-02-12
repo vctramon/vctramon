@@ -37,7 +37,6 @@
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="40" alt="MySQL" title="MySQL">
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40" alt="Python" title="Python">
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" height="40" alt="Postgresql" title="Postgresql">
-  <img src=""
 </div>
 
 <br>
