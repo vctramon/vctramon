@@ -1,5 +1,5 @@
 <!-- Header Section -->
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sejam+Bem-Vindos!!!!" alt="Typing animation">
 
 
 <h1>Sobre mim</h1>
