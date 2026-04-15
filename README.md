@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=🧑🏽‍💻+Olá,+Meu+Nome+é+Victor+Ramon;Sejam+Bem-Vindos!!!!" alt="Typing animation">
 
 
-<h1>Sobre mim</h1>
+<h1 align="center" >Sobre mim</h1>
 <div align="left">  
   <p>Opa, tudo bem ?
     Prazer eu sou o Ramon, estou cursando Big Data para Negócios, em formação para atuar como Cientista de Dados. Tenho perfil curioso, gosto de explorar novas tecnologias, testar hipóteses e transformar dados em insights que apoiem decisões estratégicas. Estou sempre experimentando ferramentas, linguagens e abordagens diferentes para aprender na prática e evoluir continuamente..</p>
