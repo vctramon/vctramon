@@ -45,27 +45,26 @@
 <!-- Stats Section -->
 <h1 align="center">📊 Estatísticas</h1>
 
-<div align="center">
+<div>
 
-<div align="center">
-
- <div align="center">
   <img
+    align="left"
     src="https://streak-stats.demolab.com?user=vctramon&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF"
-    width="47%"
+    height="280"
     alt="GitHub Streak"
   />
 
   <img
+    align="right"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vctramon&layout=donut&langs_count=6&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000"
-    width="39%"
+    height="280"
     alt="Top Languages"
   />
-</div>
 
 </div>
 
-</div>
+<br clear="both">
+
 
 <br>
 
