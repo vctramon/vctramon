@@ -46,18 +46,56 @@
 <h1 align="center">📊 Estatísticas</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vctramon&theme=shadow_red&show_icons=true&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vctramon&layout=compact&bg_color=000&text_color=ffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000" width="48%" alt="Top Languages" width="48%" />
+
+<div align="center">
+
+ <div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vctramon&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF"
+    width="47%"
+    alt="GitHub Streak"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vctramon&layout=donut&langs_count=6&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000"
+    width="39%"
+    alt="Top Languages"
+  />
 </div>
 
+</div>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vctramon&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&icon_color=FF0000&chart_color=FF0000"
+    width="98%"
+    alt="GitHub Profile Details"
+  />
+
+</div>
+
+<br>
 
 <div align="left">
-  <img src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="100" width="150" alt="Programming GIF">
+  <img
+    src="https://media.giphy.com/media/dvZhpj2pTAsKqtHuEU/giphy.gif?cid=ecf05e47mpcxp39568sizql48oc3po9ruh7iq9xcl7lcu7tw&ep=v1_gifs_related&rid=giphy.gif&ct=g"
+    height="100"
+    width="150"
+    alt="Programming GIF"
+  >
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg" width="100%" alt="Contribution Graph">
+  <img
+    src="https://raw.githubusercontent.com/vctramon/vctramon/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+    alt="Contribution Graph"
+  >
 </div>
 
 
